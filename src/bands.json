@@ -1,0 +1,444 @@
+{
+  "albums": [
+    {
+      "albumName": "Blur",
+      "albumCover": "https://en.wikipedia.org/wiki/Blur_(Blur_album)#/media/File:Blur_Blur.jpg",
+
+      "artist": {
+        "name": "Blur",
+        "nationality": "English",
+        "logo": "https://en.wikipedia.org/wiki/Blur_(band)#/media/File:Blur_(Logo).png",
+        "image": "https://en.wikipedia.org/wiki/Blur_(band)#/media/File:BlurWembley090723_(166_of_172)_colour_change_(shorter_crop).jpg"
+      },
+
+      "releaseYear": "1997",
+      "highestChartPosition": "1",
+      "genre": "Indie rock",
+      "label": "Food Records",
+      "trackNumber": "14",
+      "length": "56:53",
+      "favouriteSong": "Song 2",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+    {
+      "albumName": "OK Computer",
+      "albumCover": "https://en.wikipedia.org/wiki/OK_Computer#/media/File:Radioheadokcomputer.png",
+
+      "artist": {
+        "name": "Radiohead",
+        "nationality": "English",
+        "logo": "https://en.wikipedia.org/wiki/Radiohead#/media/File:RHbear.svg",
+        "image": "https://en.wikipedia.org/wiki/Radiohead#/media/File:RadioheadMid2010s.jpg"
+      },
+
+      "releaseYear": "1997",
+      "highestChartPosition": "1",
+      "genre": "Alternative rock",
+      "label": "Parlophone",
+      "trackNumber": "12",
+      "length": "53:21",
+      "favouriteSong": "Paranoid Android",
+      "platinumSelling": "yes",
+      "awards": "Grammy"
+    },
+    {
+      "albumName": "Renaissance",
+      "albumCover": "https://en.wikipedia.org/wiki/Renaissance_(Beyonc%C3%A9_album)#/media/File:Beyonc%C3%A9_-_Renaissance.png",
+
+      "artist": {
+        "name": "Beyonce",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Beyonc%C3%A9#/media/File:Beyonc%C3%A9_-_Tottenham_Hotspur_Stadium_-_1st_June_2023_(25_of_118)_(52946287590)_(face_cropped).jpg"
+      },
+
+      "releaseYear": "2022",
+      "highestChartPosition": "1",
+      "genre": "Dance",
+      "label": "Parkwood, Columbia",
+      "trackNumber": "16",
+      "length": "62:14",
+      "favouriteSong": "Pure/Honey",
+      "platinumSelling": "yes",
+      "awards": "AMA, Soul Train, BET, Billboard, Grammy, iHeartRadio, NAACP Image"
+    },
+    {
+      "albumName": "Black Holes and Revelations",
+      "albumCover": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations#/media/File:BlackHolesCover.jpg",
+
+      "artist": {
+        "name": "Muse",
+        "nationality": "English",
+        "logo": "https://en.wikipedia.org/wiki/Muse_(band)#/media/File:Muse_logo.svg",
+        "image": "https://en.wikipedia.org/wiki/Muse_(band)#/media/File:MuseHammsmith100522_(47_of_76)_(52089636284).jpg"
+      },
+
+      "releaseYear": "2006",
+      "highestChartPosition": "1",
+      "genre": "Alternative rock",
+      "label": "Warner Bros.",
+      "trackNumber": "11",
+      "length": "45:28",
+      "favouriteSong": "Knights of Cydonia",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+    {
+      "albumName": "Folklore",
+      "albumCover": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Folklore.png",
+
+      "artist": {
+        "name": "Taylor Swift",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Taylor_Swift#/media/File:Taylor_Swift_at_the_2023_MTV_Video_Music_Awards_(3).png"
+      },
+
+      "releaseYear": "2020",
+      "highestChartPosition": "1",
+      "genre": "Indie folk",
+      "label": "Republic",
+      "trackNumber": "16",
+      "length": "63:29",
+      "favouriteSong": "Invisible String",
+      "platinumSelling": "yes",
+      "awards": "Apple, AMA, Danish, NetEase, Grammy, Japan Gold Disc, iHeartRadio"
+    },
+    {
+      "albumName": "BRAT",
+      "albumCover": "https://en.wikipedia.org/wiki/Brat_(album)#/media/File:Charli_XCX_-_Brat_(album_cover).png",
+
+      "artist": {
+        "name": "Charli XCX",
+        "nationality": "English",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Charli_XCX#/media/File:Charli_XCX_in_2023_for_Vogue_Magazine_YouTube.jpg"
+      },
+
+      "releaseYear": "2024",
+      "highestChartPosition": "1",
+      "genre": "Electropop",
+      "label": "Atlantic",
+      "trackNumber": "15",
+      "length": "41:23",
+      "favouriteSong": "Von Dutch",
+      "platinumSelling": "yes",
+      "awards": "Danish, Billboard"
+    },
+    {
+      "albumName": "Guts",
+      "albumCover": "https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album)#/media/File:Olivia_Rodrigo_-_Guts.png",
+
+      "artist": {
+        "name": "Olivia Rodrigo",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Olivia_Rodrigo#/media/File:OlivaRO2150524_(38)_(53727178601)_(cropped).jpg"
+      },
+
+      "releaseYear": "2023",
+      "highestChartPosition": "1",
+      "genre": "Pop",
+      "label": "Geffen",
+      "trackNumber": "12",
+      "length": "39:12",
+      "favouriteSong": "Bad Idea Right?",
+      "platinumSelling": "yes",
+      "awards": "People's Choice, iHeartRadio, Webby, Nickelodeon Kids' Choice"
+    },
+    {
+      "albumName": "White Blood Cells",
+      "albumCover": "https://en.wikipedia.org/wiki/White_Blood_Cells#/media/File:The_White_Stripes_-_White_Blood_Cells.jpg",
+
+      "artist": {
+        "name": "The White Stripes",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/The_White_Stripes#/media/File:Jack_&_Meg,_The_White_Stripes.jpg"
+      },
+
+      "releaseYear": "2001",
+      "highestChartPosition": "36",
+      "genre": "Garage rock",
+      "label": "Sympathy for the Record Industry",
+      "trackNumber": "16",
+      "length": "40:31",
+      "favouriteSong": "Fell in Love with a Girl",
+      "platinumSelling": "yes",
+      "awards": "MTV Video"
+    },
+
+    {
+      "albumName": "Is This It?",
+      "albumCover": "https://en.wikipedia.org/wiki/Is_This_It#/media/File:The_Strokes_-_Is_This_It_cover.png",
+
+      "artist": {
+        "name": "The Strokes",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/The_Strokes#/media/File:The_Strokes_live_collage_2019%E2%80%932020.jpg"
+      },
+
+      "releaseYear": "2001",
+      "highestChartPosition": "2",
+      "genre": "Indie rock",
+      "label": "RCA, Rough Trade",
+      "trackNumber": "11",
+      "length": "36:28",
+      "favouriteSong": "Last Nite",
+      "platinumSelling": "yes",
+      "awards": "NME, Meteor, Brits"
+    },
+
+    {
+      "albumName": "Up the Bracket",
+      "albumCover": "https://en.wikipedia.org/wiki/Up_the_Bracket#/media/File:Upthebracket.jpg",
+
+      "artist": {
+        "name": "The Libertines",
+        "nationality": "English",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/The_Libertines#/media/File:LibertinesKingston090424_(40_of_51)_(53643957735).jpg"
+      },
+
+      "releaseYear": "2002",
+      "highestChartPosition": "13",
+      "genre": "Indie rock",
+      "label": "Rough Trade",
+      "trackNumber": "12",
+      "length": "36:33",
+      "favouriteSong": "I Get Along",
+      "platinumSelling": "no",
+      "awards": "null"
+    },
+    {
+      "albumName": "Back to Black",
+      "albumCover": "https://en.wikipedia.org/wiki/Back_to_Black#/media/File:Amy_Winehouse_-_Back_to_Black_(album).png",
+      "artist": {
+        "name": "Amy Winehouse",
+        "nationality": "English",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Amy_Winehouse#/media/File:Amy_Winehouse_f4962007_crop.jpg"
+      },
+
+      "releaseYear": "2006",
+      "highestChartPosition": "1",
+      "genre": "Soul",
+      "label": "Island Records",
+      "trackNumber": "11",
+      "length": "34:56",
+      "favouriteSong": "Back to Black",
+      "platinumSelling": "yes",
+      "awards": "Echo, Danish, Grammy"
+    },
+    {
+      "albumName": "Definitely Maybe",
+      "albumCover": "https://en.wikipedia.org/wiki/Definitely_Maybe#/media/File:OasisDefinitelyMaybealbumcover.jpg",
+      "artist": {
+        "name": "Oasis",
+        "nationality": "English",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Oasis_(band)#/media/File:Oasis_Liam_and_Noel.jpg"
+      },
+
+      "releaseYear": "1994",
+      "highestChartPosition": "1",
+      "genre": "Britpop",
+      "label": "Creation",
+      "trackNumber": "11",
+      "length": "51:56",
+      "favouriteSong": "Live Forever",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "The Marshall Mathers LP",
+      "albumCover": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP#/media/File:The_Marshall_Mathers_LP.jpg",
+      "artist": {
+        "name": "Eminem",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Eminem#/media/File:Eminem_2021_Color_Corrected.jpg"
+      },
+
+      "releaseYear": "2000",
+      "highestChartPosition": "1",
+      "genre": "Horrorcore",
+      "label": "Aftermath, Interscope",
+      "trackNumber": "18",
+      "length": "72:04",
+      "favouriteSong": "Who Knew",
+      "platinumSelling": "yes",
+      "awards": "MTV Europe, Grammy"
+    },
+
+    {
+      "albumName": "Grace",
+      "albumCover": "https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)#/media/File:Jeff_Buckley_grace.jpg",
+      "artist": {
+        "name": "Jeff Buckley",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Jeff_Buckley#/media/File:Jeff_Buckley.jpg"
+      },
+
+      "releaseYear": "1994",
+      "highestChartPosition": "7",
+      "genre": "Alternative rock",
+      "label": "Columbia",
+      "trackNumber": "10",
+      "length": "51:48",
+      "favouriteSong": "Grace",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "Parklife",
+      "albumCover": "https://en.wikipedia.org/wiki/Parklife#/media/File:BlurParklife.jpg",
+      "artist": {
+        "name": "Blur",
+        "nationality": "English",
+        "logo": "https://en.wikipedia.org/wiki/Blur_(band)#/media/File:Blur_(Logo).png",
+        "image": "https://en.wikipedia.org/wiki/Blur_(band)#/media/File:Suede,_royal_albert_hall_2010.jpg"
+      },
+
+      "releaseYear": "1994",
+      "highestChartPosition": "1",
+      "genre": "Britpop",
+      "label": "Food",
+      "trackNumber": "16",
+      "length": "52:40",
+      "favouriteSong": "Girls & Boys",
+      "platinumSelling": "yes",
+      "awards": "Brits"
+    },
+    {
+      "albumName": "Garbage",
+      "albumCover": "https://en.wikipedia.org/wiki/Garbage_(album)#/media/File:GarbageSTinternational.png",
+      "artist": {
+        "name": "Garbage",
+        "nationality": "Scottish, American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Garbage_(band)#/media/File:Sound007RAH041022_(36_of_69)_(52406233929).jpg"
+      },
+
+      "releaseYear": "1995",
+      "highestChartPosition": "1",
+      "genre": "Alternative rock",
+      "label": "Almo",
+      "trackNumber": "12",
+      "length": "50:51",
+      "favouriteSong": "Stupid Girl",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "Immaculate Collection",
+      "albumCover": "https://en.wikipedia.org/wiki/The_Immaculate_Collection#/media/File:Madonna_-_The_Immaculate_Collection.png",
+      "artist": {
+        "name": "Madonna",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Madonna#/media/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg"
+      },
+
+      "releaseYear": "1990",
+      "highestChartPosition": "1",
+      "genre": "Pop",
+      "label": "Sire Records",
+      "trackNumber": "17",
+      "length": "73:32",
+      "favouriteSong": "Material Girl",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "Thriller",
+      "albumCover": "https://en.wikipedia.org/wiki/Thriller_(album)#/media/File:Michael_Jackson_-_Thriller.png",
+      "artist": {
+        "name": "Michael Jackson",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Michael_Jackson#/media/File:Michael_Jackson_in_1988.jpg"
+      },
+
+      "releaseYear": "1982",
+      "highestChartPosition": "1",
+      "genre": "Pop",
+      "label": "Epic Records",
+      "trackNumber": "9",
+      "length": "42:16",
+      "favouriteSong": "Billie Jean",
+      "platinumSelling": "yes",
+      "awards": "Grammy, AMA, MTV Video"
+    },
+
+    {
+      "albumName": "Veni Vidi Vicious",
+      "albumCover": "https://en.wikipedia.org/wiki/Veni_Vidi_Vicious#/media/File:Veni_Vidi_Vicious.jpg",
+      "artist": {
+        "name": "The Hives",
+        "nationality": "Swedish",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/The_Hives#/media/File:Deichbrand2018-TheHives-58.jpg"
+      },
+
+      "releaseYear": "2000",
+      "highestChartPosition": "34",
+      "genre": "Garage rock revival",
+      "label": "Burning Heart, Epitaph",
+      "trackNumber": "12",
+      "length": "27:55",
+      "favouriteSong": "Hate to Say I Told You So",
+      "platinumSelling": "no",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "Plans",
+      "albumCover": "https://en.wikipedia.org/wiki/Plans_(album)#/media/File:Death_Cab_For_Cutie_-_Plans.png",
+      "artist": {
+        "name": "Death Cab for Cutie",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/Death_Cab_for_Cutie#/media/File:20150627_D%C3%BCsseldorf_Open_Source_Festival_Death_Cab_for_Cutie_0034.jpg"
+      },
+
+      "releaseYear": "2005",
+      "highestChartPosition": "4",
+      "genre": "Indie pop",
+      "label": "Atlantic",
+      "trackNumber": "11",
+      "length": "44:25",
+      "favouriteSong": "I Will Follow You into the Dark",
+      "platinumSelling": "yes",
+      "awards": "null"
+    },
+
+    {
+      "albumName": "Give Up",
+      "albumCover": "https://en.wikipedia.org/wiki/Give_Up#/media/File:PostalService_cover300dpi.jpg",
+      "artist": {
+        "name": "The Postal Service",
+        "nationality": "American",
+        "logo": "null",
+        "image": "https://en.wikipedia.org/wiki/The_Postal_Service#/media/File:PostalService_color300dpi_by_Brian_Tamborello.jpg"
+      },
+
+      "releaseYear": "2003",
+      "highestChartPosition": "1",
+      "genre": "Indietronica",
+      "label": "Sub Pop Records",
+      "trackNumber": "10",
+      "length": "45:00",
+      "favouriteSong": "Such Great Heights",
+      "platinumSelling": "yes",
+      "awards": "null"
+    }
+  ]
+}

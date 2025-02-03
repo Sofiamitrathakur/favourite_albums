@@ -1,11 +1,11 @@
 {
-  "name": "project-three",
+  "name": "favourite-albums",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build && npx surge --project ./dist --domain <https://greedy-bun.surge.sh>"
   },
   "dependencies": {
     "react": "^18.3.1",
