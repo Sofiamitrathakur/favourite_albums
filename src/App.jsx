@@ -1,5 +1,5 @@
 import './App.css'
-import albums from 'albums.json'
+import albums from './data/albums.json'
 import Album from './components/Album.jsx'
 
 const App = () => {
