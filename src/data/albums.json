@@ -1,8 +1,9 @@
 {
-  "albums": [
+  "results": [
     {
       "albumName": "Blur",
       "albumCover": "https://en.wikipedia.org/wiki/Blur_(Blur_album)#/media/File:Blur_Blur.jpg",
+      "id": "Blur",
 
       "artist": {
         "name": "Blur",
@@ -24,6 +25,7 @@
     {
       "albumName": "OK Computer",
       "albumCover": "https://en.wikipedia.org/wiki/OK_Computer#/media/File:Radioheadokcomputer.png",
+      "id": "OK Computer",
 
       "artist": {
         "name": "Radiohead",
@@ -45,6 +47,7 @@
     {
       "albumName": "Renaissance",
       "albumCover": "https://en.wikipedia.org/wiki/Renaissance_(Beyonc%C3%A9_album)#/media/File:Beyonc%C3%A9_-_Renaissance.png",
+      "id": "Renaissance",
 
       "artist": {
         "name": "Beyonce",
@@ -66,6 +69,7 @@
     {
       "albumName": "Black Holes and Revelations",
       "albumCover": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations#/media/File:BlackHolesCover.jpg",
+      "id": "Black Holes and Revelations",
 
       "artist": {
         "name": "Muse",
@@ -87,6 +91,7 @@
     {
       "albumName": "Folklore",
       "albumCover": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)#/media/File:Taylor_Swift_-_Folklore.png",
+      "id": "Folklore",
 
       "artist": {
         "name": "Taylor Swift",
@@ -108,6 +113,7 @@
     {
       "albumName": "BRAT",
       "albumCover": "https://en.wikipedia.org/wiki/Brat_(album)#/media/File:Charli_XCX_-_Brat_(album_cover).png",
+      "id": "BRAT",
 
       "artist": {
         "name": "Charli XCX",
@@ -129,6 +135,7 @@
     {
       "albumName": "Guts",
       "albumCover": "https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album)#/media/File:Olivia_Rodrigo_-_Guts.png",
+      "id": "Guts",
 
       "artist": {
         "name": "Olivia Rodrigo",
@@ -150,6 +157,7 @@
     {
       "albumName": "White Blood Cells",
       "albumCover": "https://en.wikipedia.org/wiki/White_Blood_Cells#/media/File:The_White_Stripes_-_White_Blood_Cells.jpg",
+      "id": "White Blood Cells",
 
       "artist": {
         "name": "The White Stripes",
@@ -172,6 +180,7 @@
     {
       "albumName": "Is This It?",
       "albumCover": "https://en.wikipedia.org/wiki/Is_This_It#/media/File:The_Strokes_-_Is_This_It_cover.png",
+      "id": "Is This It?",
 
       "artist": {
         "name": "The Strokes",
@@ -194,6 +203,7 @@
     {
       "albumName": "Up the Bracket",
       "albumCover": "https://en.wikipedia.org/wiki/Up_the_Bracket#/media/File:Upthebracket.jpg",
+      "id": "Up the Bracket",
 
       "artist": {
         "name": "The Libertines",
@@ -215,6 +225,7 @@
     {
       "albumName": "Back to Black",
       "albumCover": "https://en.wikipedia.org/wiki/Back_to_Black#/media/File:Amy_Winehouse_-_Back_to_Black_(album).png",
+      "id": "Back to Black",
       "artist": {
         "name": "Amy Winehouse",
         "nationality": "English",
@@ -235,6 +246,7 @@
     {
       "albumName": "Definitely Maybe",
       "albumCover": "https://en.wikipedia.org/wiki/Definitely_Maybe#/media/File:OasisDefinitelyMaybealbumcover.jpg",
+      "id": "Definitely Maybe",
       "artist": {
         "name": "Oasis",
         "nationality": "English",
@@ -256,6 +268,7 @@
     {
       "albumName": "The Marshall Mathers LP",
       "albumCover": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP#/media/File:The_Marshall_Mathers_LP.jpg",
+      "id": "The Marshall Mathers LP",
       "artist": {
         "name": "Eminem",
         "nationality": "American",
@@ -277,6 +290,7 @@
     {
       "albumName": "Grace",
       "albumCover": "https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)#/media/File:Jeff_Buckley_grace.jpg",
+      "id": "Grace",
       "artist": {
         "name": "Jeff Buckley",
         "nationality": "American",
@@ -298,6 +312,7 @@
     {
       "albumName": "Parklife",
       "albumCover": "https://en.wikipedia.org/wiki/Parklife#/media/File:BlurParklife.jpg",
+      "id": "Parklife",
       "artist": {
         "name": "Blur",
         "nationality": "English",
@@ -318,6 +333,7 @@
     {
       "albumName": "Garbage",
       "albumCover": "https://en.wikipedia.org/wiki/Garbage_(album)#/media/File:GarbageSTinternational.png",
+      "id": "Garbage",
       "artist": {
         "name": "Garbage",
         "nationality": "Scottish, American",
@@ -339,6 +355,7 @@
     {
       "albumName": "Immaculate Collection",
       "albumCover": "https://en.wikipedia.org/wiki/The_Immaculate_Collection#/media/File:Madonna_-_The_Immaculate_Collection.png",
+      "id": "Immaculate Collection",
       "artist": {
         "name": "Madonna",
         "nationality": "American",
@@ -360,6 +377,7 @@
     {
       "albumName": "Thriller",
       "albumCover": "https://en.wikipedia.org/wiki/Thriller_(album)#/media/File:Michael_Jackson_-_Thriller.png",
+      "id": "Thriller",
       "artist": {
         "name": "Michael Jackson",
         "nationality": "American",
@@ -381,6 +399,7 @@
     {
       "albumName": "Veni Vidi Vicious",
       "albumCover": "https://en.wikipedia.org/wiki/Veni_Vidi_Vicious#/media/File:Veni_Vidi_Vicious.jpg",
+      "id": "Veni Vidi Vicious",
       "artist": {
         "name": "The Hives",
         "nationality": "Swedish",
@@ -402,6 +421,7 @@
     {
       "albumName": "Plans",
       "albumCover": "https://en.wikipedia.org/wiki/Plans_(album)#/media/File:Death_Cab_For_Cutie_-_Plans.png",
+      "id": "Plans",
       "artist": {
         "name": "Death Cab for Cutie",
         "nationality": "American",
@@ -423,6 +443,7 @@
     {
       "albumName": "Give Up",
       "albumCover": "https://en.wikipedia.org/wiki/Give_Up#/media/File:PostalService_cover300dpi.jpg",
+      "id": "Give Up",
       "artist": {
         "name": "The Postal Service",
         "nationality": "American",
