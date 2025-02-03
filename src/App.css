@@ -3,9 +3,9 @@ body {
   box-sizing: border-box;
   text-align: center;
   background-color: pink;
+}
 
-  .flex-row {
-    display: flex;
-    min-height: 100vh;
-  }
+.flex-row {
+  display: flex;
+  min-height: 100vh;
 }
