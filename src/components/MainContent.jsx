@@ -1,19 +1,22 @@
-import Album from './Album'
+import Album from './Album.jsx'
 
 const MainContent = (props) => {
   return (
     <div className="main">
       <h1>Favourite Albums</h1>
       <ul>
-        {props.results.map((album) => (
+        {props.albums.map((album) => (
           <Album
             key={album.id}
-            name={album.name}
-            // artist={album.artist.name}
-            // label={album.label}
-            // chartposition={album.highestChartPosition}
-            // favouritesong={album.favouriteSong}
-            // id={album.id}
+            albumName={album.albumName}
+            albumCover={album.albumCover}
+            artist={album.artist}
+            genre={album.genre}
+            label={album.label}
+            highestChartPosition={album.highestChartPosition}
+            awards={album.awards}
+            favouriteSong={album.favouriteSong}
+            id={album.id}
           />
         ))}
       </ul>

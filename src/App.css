@@ -1,11 +1,7 @@
-body {
-  margin: 0;
-  box-sizing: border-box;
-  text-align: center;
-  background-color: pink;
+.main {
+  border: 2px solid red;
 }
 
-.flex-row {
-  display: flex;
-  min-height: 100vh;
+.album {
+  border: 1px solid blue;
 }
