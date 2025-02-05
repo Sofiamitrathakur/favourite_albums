@@ -9,13 +9,15 @@ const MainContent = (props) => {
           <Album
             key={album.id}
             albumName={album.albumName}
+            wiki={album.wiki}
             albumCover={album.albumCover}
             artist={album.artist}
+            releaseYear={album.releaseYear}
             genre={album.genre}
-            label={album.label}
-            highestChartPosition={album.highestChartPosition}
-            awards={album.awards}
+            // label={album.label}
+            // highestChartPosition={album.highestChartPosition}
             favouriteSong={album.favouriteSong}
+            songLink={album.songLink}
             id={album.id}
           />
         ))}

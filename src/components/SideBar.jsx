@@ -3,9 +3,7 @@ const SideBar = () => {
     <div className="side-bar">
       <div className="side-info">
         <h1>SideBar</h1>
-        <h2>
-          This app displays some of my favourite albums from the last 40 years
-        </h2>
+        <h2>A list of some of my favourite albums</h2>
       </div>
     </div>
   )

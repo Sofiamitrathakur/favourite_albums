@@ -3,12 +3,13 @@
     "id": 1,
     "albumName": "Blur",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b1/Blur_Blur.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Blur_(Blur_album)",
 
     "artist": {
       "name": "Blur",
       "nationality": "English",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blur_%28Logo%29.png/440px-Blur_%28Logo%29.png",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BlurWembley090723_%28166_of_172%29_colour_change_%28shorter_crop%29.jpg/600px-BlurWembley090723_%28166_of_172%29_colour_change_%28shorter_crop%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/BlurWembley090723_%28166_of_172%29_colour_change_%28shorter_crop%29.jpg/320px-BlurWembley090723_%28166_of_172%29_colour_change_%28shorter_crop%29.jpg"
     },
 
     "releaseYear": "1997",
@@ -18,6 +19,7 @@
     "trackNumber": "14",
     "length": "56:53",
     "favouriteSong": "Song 2",
+    "songLink": "https://www.youtube.com/watch?v=SSbBvKaM6sk",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -25,6 +27,7 @@
     "id": 2,
     "albumName": "OK Computer",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/ba/Radioheadokcomputer.png",
+    "wiki": "https://en.wikipedia.org/wiki/OK_Computer",
 
     "artist": {
       "name": "Radiohead",
@@ -40,6 +43,7 @@
     "trackNumber": "12",
     "length": "53:21",
     "favouriteSong": "Paranoid Android",
+    "songLink": "https://www.youtube.com/watch?v=fHiGbolFFGw",
     "platinumSelling": "yes",
     "awards": "Grammy"
   },
@@ -47,6 +51,7 @@
     "id": 3,
     "albumName": "Renaissance",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/ad/Beyonc%C3%A9_-_Renaissance.png",
+    "wiki": "https://en.wikipedia.org/wiki/Renaissance_(Beyonc%C3%A9_album)",
 
     "artist": {
       "name": "Beyonce",
@@ -62,6 +67,7 @@
     "trackNumber": "16",
     "length": "62:14",
     "favouriteSong": "Pure/Honey",
+    "songLink": "https://www.youtube.com/watch?v=WM133A3vqLE",
     "platinumSelling": "yes",
     "awards": "AMA, Soul Train, BET, Billboard, Grammy, iHeartRadio, NAACP Image"
   },
@@ -69,6 +75,7 @@
     "id": 4,
     "albumName": "Black Holes and Revelations",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/c/c5/BlackHolesCover.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Black_Holes_and_Revelations",
 
     "artist": {
       "name": "Muse",
@@ -84,6 +91,7 @@
     "trackNumber": "11",
     "length": "45:28",
     "favouriteSong": "Knights of Cydonia",
+    "songLink": "https://www.youtube.com/watch?v=G_sBOsh-vyI",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -91,6 +99,7 @@
     "id": 5,
     "albumName": "Folklore",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/f/f8/Taylor_Swift_-_Folklore.png",
+    "wiki": "https://en.wikipedia.org/wiki/Folklore_(Taylor_Swift_album)",
 
     "artist": {
       "name": "Taylor Swift",
@@ -106,13 +115,15 @@
     "trackNumber": "16",
     "length": "63:29",
     "favouriteSong": "Invisible String",
+    "songLink": "https://www.youtube.com/watch?v=OuFnpmGwg5k",
     "platinumSelling": "yes",
     "awards": "Apple, AMA, Danish, NetEase, Grammy, Japan Gold Disc, iHeartRadio"
   },
   {
     "id": 6,
     "albumName": "BRAT",
-    "albumCover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Charli_XCX_-_Brat_%28album_cover%29.png/440px-Charli_XCX_-_Brat_%28album_cover%29.png",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Charli_XCX_-_Brat_%28album_cover%29.png/240px-Charli_XCX_-_Brat_%28album_cover%29.png",
+    "wiki": "https://en.wikipedia.org/wiki/Brat_(album)",
 
     "artist": {
       "name": "Charli XCX",
@@ -128,6 +139,7 @@
     "trackNumber": "15",
     "length": "41:23",
     "favouriteSong": "Von Dutch",
+    "songLink": "https://www.youtube.com/watch?v=cwZ1L_0QLjw",
     "platinumSelling": "yes",
     "awards": "Danish, Billboard"
   },
@@ -135,6 +147,7 @@
     "id": 7,
     "albumName": "Guts",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/03/Olivia_Rodrigo_-_Guts.png",
+    "wiki": "https://en.wikipedia.org/wiki/Guts_(Olivia_Rodrigo_album)",
 
     "artist": {
       "name": "Olivia Rodrigo",
@@ -150,6 +163,7 @@
     "trackNumber": "12",
     "length": "39:12",
     "favouriteSong": "Bad Idea Right?",
+    "songLink": "https://www.youtube.com/watch?v=Dj9qJsJTsjQ",
     "platinumSelling": "yes",
     "awards": "People's Choice, iHeartRadio, Webby, Nickelodeon Kids' Choice"
   },
@@ -157,6 +171,7 @@
     "id": 8,
     "albumName": "White Blood Cells",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/1/12/The_White_Stripes_-_White_Blood_Cells.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/White_Blood_Cells",
 
     "artist": {
       "name": "The White Stripes",
@@ -172,6 +187,7 @@
     "trackNumber": "16",
     "length": "40:31",
     "favouriteSong": "Fell in Love with a Girl",
+    "songLink": "https://www.youtube.com/watch?v=fTH71AAxXmM",
     "platinumSelling": "yes",
     "awards": "MTV Video"
   },
@@ -180,6 +196,7 @@
     "id": 9,
     "albumName": "Is This It?",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/09/The_Strokes_-_Is_This_It_cover.png",
+    "wiki": "https://en.wikipedia.org/wiki/Is_This_It",
 
     "artist": {
       "name": "The Strokes",
@@ -195,6 +212,7 @@
     "trackNumber": "11",
     "length": "36:28",
     "favouriteSong": "Last Nite",
+    "songLink": "https://www.youtube.com/watch?v=TOypSnKFHrE",
     "platinumSelling": "yes",
     "awards": "NME, Meteor, Brits"
   },
@@ -203,6 +221,7 @@
     "id": 10,
     "albumName": "Up the Bracket",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/50/Upthebracket.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Up_the_Bracket",
 
     "artist": {
       "name": "The Libertines",
@@ -218,6 +237,7 @@
     "trackNumber": "12",
     "length": "36:33",
     "favouriteSong": "I Get Along",
+    "songLink": "https://www.youtube.com/watch?v=b3yCSsDJjgM",
     "platinumSelling": "no",
     "awards": "null"
   },
@@ -225,6 +245,7 @@
     "id": 11,
     "albumName": "Back to Black",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/6/67/Amy_Winehouse_-_Back_to_Black_%28album%29.png",
+    "wiki": "https://en.wikipedia.org/wiki/Back_to_Black",
     "artist": {
       "name": "Amy Winehouse",
       "nationality": "English",
@@ -239,6 +260,7 @@
     "trackNumber": "11",
     "length": "34:56",
     "favouriteSong": "Back to Black",
+    "songLink": "https://www.youtube.com/watch?v=TJAfLE39ZZ8",
     "platinumSelling": "yes",
     "awards": "Echo, Danish, Grammy"
   },
@@ -246,6 +268,7 @@
     "id": 12,
     "albumName": "Definitely Maybe",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/d4/OasisDefinitelyMaybealbumcover.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Definitely_Maybe",
     "artist": {
       "name": "Oasis",
       "nationality": "English",
@@ -260,6 +283,7 @@
     "trackNumber": "11",
     "length": "51:56",
     "favouriteSong": "Live Forever",
+    "songLink": "https://www.youtube.com/watch?v=TDe1DqxwJoc",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -268,6 +292,7 @@
     "id": 13,
     "albumName": "The Marshall Mathers LP",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/a/ae/The_Marshall_Mathers_LP.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/The_Marshall_Mathers_LP",
 
     "artist": {
       "name": "Eminem",
@@ -283,6 +308,7 @@
     "trackNumber": "18",
     "length": "72:04",
     "favouriteSong": "Who Knew",
+    "songLink": "https://www.youtube.com/watch?v=eskNJWOtBCo",
     "platinumSelling": "yes",
     "awards": "MTV Europe, Grammy"
   },
@@ -291,6 +317,7 @@
     "id": 14,
     "albumName": "Grace",
     "albumCover": "https://upload.wikimedia.org/wikipedia/en/e/e4/Jeff_Buckley_grace.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Grace_(Jeff_Buckley_album)",
 
     "artist": {
       "name": "Jeff Buckley",
@@ -306,6 +333,7 @@
     "trackNumber": "10",
     "length": "51:48",
     "favouriteSong": "Grace",
+    "songLink": "https://www.youtube.com/watch?v=A3adFWKE9JE",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -313,13 +341,14 @@
   {
     "id": 15,
     "albumName": "Parklife",
-    "albumCover": "https://en.wikipedia.org/wiki/Parklife#/media/File:BlurParklife.jpg",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/7/7d/BlurParklife.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Parklife",
 
     "artist": {
       "name": "Blur",
       "nationality": "English",
       "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Blur_%28Logo%29.png/440px-Blur_%28Logo%29.png",
-      "image": "https://en.wikipedia.org/wiki/Blur_(band)#/media/File:Suede,_royal_albert_hall_2010.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Suede%2C_royal_albert_hall_2010.jpg?20150829064952"
     },
 
     "releaseYear": "1994",
@@ -329,19 +358,21 @@
     "trackNumber": "16",
     "length": "52:40",
     "favouriteSong": "Girls & Boys",
+    "songLink": "https://www.youtube.com/watch?v=WDswiT87oo8",
     "platinumSelling": "yes",
     "awards": "Brits"
   },
   {
     "id": 16,
     "albumName": "Garbage",
-    "albumCover": "https://en.wikipedia.org/wiki/Garbage_(album)#/media/File:GarbageSTinternational.png",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/4/42/GarbageSTinternational.png",
+    "wiki": "https://en.wikipedia.org/wiki/Garbage_(album)",
 
     "artist": {
       "name": "Garbage",
       "nationality": "Scottish, American",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/Garbage_(band)#/media/File:Sound007RAH041022_(36_of_69)_(52406233929).jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Sound007RAH041022_%2836_of_69%29_%2852406233929%29.jpg/600px-Sound007RAH041022_%2836_of_69%29_%2852406233929%29.jpg"
     },
 
     "releaseYear": "1995",
@@ -351,19 +382,21 @@
     "trackNumber": "12",
     "length": "50:51",
     "favouriteSong": "Stupid Girl",
+    "songLink": "https://www.youtube.com/watch?v=rdw-e9UXW50",
     "platinumSelling": "yes",
     "awards": "null"
   },
 
   {
     "id": 17,
-    "albumName": "Immaculate Collection",
-    "albumCover": "https://en.wikipedia.org/wiki/The_Immaculate_Collection#/media/File:Madonna_-_The_Immaculate_Collection.png",
+    "albumName": "The Immaculate Collection",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/51/Madonna_-_The_Immaculate_Collection.png",
+    "wiki": "https://en.wikipedia.org/wiki/The_Immaculate_Collection",
     "artist": {
       "name": "Madonna",
       "nationality": "American",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/Madonna#/media/File:MadonnaO2171023_(97_of_133)_(53269593787)_(cropped).jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg/440px-MadonnaO2171023_%2897_of_133%29_%2853269593787%29_%28cropped%29.jpg"
     },
 
     "releaseYear": "1990",
@@ -373,6 +406,7 @@
     "trackNumber": "17",
     "length": "73:32",
     "favouriteSong": "Material Girl",
+    "songLink": "https://www.youtube.com/watch?v=5Rswx2Z7SDw",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -380,13 +414,14 @@
   {
     "id": 18,
     "albumName": "Thriller",
-    "albumCover": "https://en.wikipedia.org/wiki/Thriller_(album)#/media/File:Michael_Jackson_-_Thriller.png",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+    "wiki": "https://en.wikipedia.org/wiki/Thriller_(album)",
 
     "artist": {
       "name": "Michael Jackson",
       "nationality": "American",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/Michael_Jackson#/media/File:Michael_Jackson_in_1988.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/31/Michael_Jackson_in_1988.jpg"
     },
 
     "releaseYear": "1982",
@@ -396,29 +431,32 @@
     "trackNumber": "9",
     "length": "42:16",
     "favouriteSong": "Billie Jean",
+    "songLink": "https://www.youtube.com/watch?v=Zi_XLOBDo_Y",
     "platinumSelling": "yes",
     "awards": "Grammy, AMA, MTV Video"
   },
 
   {
     "id": 19,
-    "albumName": "Veni Vidi Vicious",
-    "albumCover": "https://en.wikipedia.org/wiki/Veni_Vidi_Vicious#/media/File:Veni_Vidi_Vicious.jpg",
+    "albumName": "Your New Favourite Band",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/d/da/Favouritehives.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Your_New_Favourite_Band",
 
     "artist": {
       "name": "The Hives",
       "nationality": "Swedish",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/The_Hives#/media/File:Deichbrand2018-TheHives-58.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Deichbrand2018-TheHives-58.jpg/600px-Deichbrand2018-TheHives-58.jpg"
     },
 
-    "releaseYear": "2000",
-    "highestChartPosition": "34",
-    "genre": "Garage rock revival",
-    "label": "Burning Heart, Epitaph",
+    "releaseYear": "2001",
+    "highestChartPosition": "4",
+    "genre": "Garage punk",
+    "label": "Poptones",
     "trackNumber": "12",
-    "length": "27:55",
+    "length": "28:08",
     "favouriteSong": "Hate to Say I Told You So",
+    "songLink": "https://www.youtube.com/watch?v=Uz1Jwyxd4tE",
     "platinumSelling": "no",
     "awards": "null"
   },
@@ -426,13 +464,14 @@
   {
     "id": 20,
     "albumName": "Plans",
-    "albumCover": "https://en.wikipedia.org/wiki/Plans_(album)#/media/File:Death_Cab_For_Cutie_-_Plans.png",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/b/b6/Death_Cab_For_Cutie_-_Plans.png",
+    "wiki": "https://en.wikipedia.org/wiki/Plans_(album)",
 
     "artist": {
       "name": "Death Cab for Cutie",
       "nationality": "American",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/Death_Cab_for_Cutie#/media/File:20150627_D%C3%BCsseldorf_Open_Source_Festival_Death_Cab_for_Cutie_0034.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/20150627_D%C3%BCsseldorf_Open_Source_Festival_Death_Cab_for_Cutie_0034.jpg/600px-20150627_D%C3%BCsseldorf_Open_Source_Festival_Death_Cab_for_Cutie_0034.jpg"
     },
 
     "releaseYear": "2005",
@@ -442,6 +481,7 @@
     "trackNumber": "11",
     "length": "44:25",
     "favouriteSong": "I Will Follow You into the Dark",
+    "songLink": "https://www.youtube.com/watch?v=3iV_1ESMHaI",
     "platinumSelling": "yes",
     "awards": "null"
   },
@@ -449,13 +489,14 @@
   {
     "id": 21,
     "albumName": "Give Up",
-    "albumCover": "https://en.wikipedia.org/wiki/Give_Up#/media/File:PostalService_cover300dpi.jpg",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/PostalService_cover300dpi.jpg/240px-PostalService_cover300dpi.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Give_Up",
 
     "artist": {
       "name": "The Postal Service",
       "nationality": "American",
       "logo": "null",
-      "image": "https://en.wikipedia.org/wiki/The_Postal_Service#/media/File:PostalService_color300dpi_by_Brian_Tamborello.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PostalService_color300dpi_by_Brian_Tamborello.jpg/440px-PostalService_color300dpi_by_Brian_Tamborello.jpg"
     },
 
     "releaseYear": "2003",
@@ -465,7 +506,56 @@
     "trackNumber": "10",
     "length": "45:00",
     "favouriteSong": "Such Great Heights",
+    "songLink": "https://www.youtube.com/watch?v=0wrsZog8qXg",
     "platinumSelling": "yes",
+    "awards": "null"
+  },
+
+  {
+    "id": 22,
+    "albumName": "Fever to Tell",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/0/0b/Yeah_Yeah_Yeahs_-_Fever_to_Tell.png",
+    "wiki": "https://en.wikipedia.org/wiki/Fever_to_Tell",
+    "artist": {
+      "name": "Yeah Yeah Yeahs",
+      "nationality": "American",
+      "logo": "null",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Yeah_Yeah_Yeahs_Coachella_2006.jpg/600px-Yeah_Yeah_Yeahs_Coachella_2006.jpg"
+    },
+
+    "releaseYear": "2003",
+    "highestChartPosition": "12",
+    "genre": "Garage rock revival",
+    "label": "Interscope",
+    "trackNumber": "11",
+    "length": "37:25",
+    "favouriteSong": "Tick",
+    "songLink": "https://www.youtube.com/watch?v=DPiNJghgcAQ",
+    "platinumSelling": "no",
+    "awards": "null"
+  },
+
+  {
+    "id": 23,
+    "albumName": "Elastica",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/6/6b/Elastica-Elastica.jpg",
+    "wiki": "https://en.wikipedia.org/wiki/Elastica_(album)",
+    "artist": {
+      "name": "Elastica",
+      "nationality": "English",
+      "logo": "null",
+      "image": "https://upload.wikimedia.org/wikipedia/en/2/21/Elastica_The_Menace_press_kit.jpg"
+    },
+
+    "releaseYear": "1995",
+    "highestChartPosition": "1",
+    "genre": "Britpop",
+    "label": "Deceptive",
+    "trackNumber": "15",
+    "length": "38:08",
+    "favouriteSong": "Connection",
+    "songLink": "https://www.youtube.com/watch?v=ilKcXIFi-Rc",
+    "platinumSelling": "no",
     "awards": "null"
   }
 ]
